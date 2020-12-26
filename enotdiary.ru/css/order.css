@@ -1,0 +1,19 @@
+#order-navigate{
+	text-align: right;
+}
+#order-navigate-price{
+	font-size: 16pt;
+}
+#wrapper table{
+	background-color: #fafafa;
+}
+#wrapper{
+	background-color: #fff;
+}
+.order-img{
+	width: 100%;
+	max-width: 200px;
+}
+#order-navigate-price a{
+	font-size: 12pt;
+}

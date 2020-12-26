@@ -1,0 +1,15 @@
+main{
+	max-width: 1500px;
+}
+#admin-wrap{
+	min-height: 500px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+#admin-nav{
+	width: 10%;
+}
+#admin-workplace{
+	width: 88%;
+}

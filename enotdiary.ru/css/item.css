@@ -1,0 +1,35 @@
+.item{
+	background-color: #fdfdfd;
+	padding: 1rem;
+  	max-height: 277px;
+  	border: 0.5px solid #ccc;
+}
+.item-img{
+    width:  100%;
+    max-height: 200px;
+    object-fit: cover;
+	cursor: pointer;
+}
+.item-desc{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+}
+.item-title{
+	
+}
+.item-price{
+	color: #aaa;
+
+}
+.item-tobasket{
+	color: silver;
+	font-size: 25pt;
+	transition: 0.1s;
+	cursor: pointer;
+}
+.item-tobasket:hover{
+	color: orange;
+	transition: 0.1s;
+}
